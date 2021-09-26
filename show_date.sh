@@ -15,16 +15,16 @@ echo "Date +'%T':" $MY_DATE
 
 # date +"%D"
 MY_DATE=$(date +"%D")
-echo "Date:" $MY_DATE
+echo "Date +'%D':" $MY_DATE
 
 # date +%B
 MY_DATE=$(date +%B)
-echo "Date:" $MY_DATE
+echo "Date +%B:" $MY_DATE
 
 # date +%F
 MY_DATE=$(date +%F)
-echo "Date:" $MY_DATE
+echo "Date +%F:" $MY_DATE
 
 MY_DATE=$(date +"%d-%m-%Y")
-echo "Date:" $MY_DATE
+echo "Date +'%d-%m-%Y':" $MY_DATE
 

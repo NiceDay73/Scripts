@@ -1,0 +1,12 @@
+total 36
+-rw-rw-r-- 1 josep josep    6 Sep 26 19:32 0
+-rw-rw-r-- 1 josep josep    6 Sep 26 19:33 1
+-rw-rw-r-- 1 josep josep   86 Sep 25 21:15 abc.txt
+-rw-rw-r-- 1 josep josep    0 Sep 26 19:43 file1.txt
+-rw-rw-r-- 1 josep josep    0 Sep 26 19:38 file2.txt
+-rw-rw-r-- 1 josep josep   57 Sep 26 18:40 fruits.txt
+-rw-rw-r-- 1 josep josep 1066 Sep 25 18:53 LICENSE
+-rw-rw-r-- 1 josep josep  135 Sep 26 18:38 logger.txt
+-rw-rw-r-- 1 josep josep   46 Sep 25 18:53 README.md
+-rwxrw-r-- 1 josep josep  451 Sep 26 17:05 show_date.sh
+-rwxrw-r-- 1 josep josep  169 Sep 26 18:37 test.sh
