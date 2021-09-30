@@ -1,4 +1,0 @@
-This is a file created using the command
-cat > abc.txt
-
-To end the input, type Ctrl-D
